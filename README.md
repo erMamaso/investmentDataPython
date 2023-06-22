@@ -24,6 +24,7 @@ The ipynb file is the python notebook itself.
 
 
 **#takeAsset USAGE**
+
 The function holds three parameters: "Country 1", "Country 2", "Year"
 Remember the following scene: "Country 1" <--assets-- "Country 2"  in year "Year"
 The result is the value of Assets that Country 1 holds on Country 2 in the specified Year as the previous scene showed.

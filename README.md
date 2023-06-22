@@ -28,4 +28,5 @@ The function holds three parameters: "Country 1", "Country 2", "Year"
 Remember the following scene: "Country 1" <--assets-- "Country 2"  in year "Year"
 The result is the value of Assets that Country 1 holds on Country 2 in the specified Year as the previous scene showed.
 If there was no such transaction (it can be that "Country 1" does not hold assets on "Country 2" but there could be that "Country 2" holds assets on "Country 1" that year) it will print the following message:
+
 "Theres no Asset value between "Country 1" and "Country 2" in year "Year""
